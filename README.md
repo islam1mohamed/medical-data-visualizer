@@ -11,3 +11,6 @@ This project visualizes patient health data using Seaborn. It includes two key v
 - `heatmap.png`: Correlation matrix heatmap of filtered data
 - `medical_examination.csv`: Dataset used (you can replace it with your own if needed)
 
+![Description](Categorical_Plot.png)
+
+![Description](Heat_map.png)
